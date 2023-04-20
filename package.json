@@ -1,0 +1,12 @@
+{
+  "name": "buffer_stream",
+  "version": "1.0.0",
+  "description": "",
+  "main": "buffer.js",
+  "type": "module",
+  "scripts": {
+    "dev": "node buffer.js"
+  },
+  "author": "leonardo",
+  "license": "ISC"
+}
