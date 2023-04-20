@@ -31,4 +31,4 @@ $ npm run dev
 ```
 ## The app 
 
-<img src="./asset/images/area.png" width="100%" alt="project" />
+<img src="./area.png" width="100%" alt="project" />
